@@ -1,0 +1,7 @@
+opencv-python>=4.5.5.64
+numpy>=1.22.0
+dlib>=19.23.0
+pymongo>=4.3.3
+scipy>=1.8.0
+matplotlib>=3.5.1
+datetime
