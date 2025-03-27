@@ -1,4 +1,4 @@
-# ZoneIn
+# ZoneIn: AI-Powered Concentration Monitoring System
 
 ## Overview
 ZoneIn is an intelligent eye-tracking and concentration monitoring system that leverages computer vision and machine learning to analyze user focus and attention. Using facial landmark detection and eye aspect ratio analysis, the system provides real-time insights into a user's concentration levels.
@@ -123,12 +123,10 @@ Contributions are welcome!
 ## Disclaimer
 This tool is intended for personal productivity and research. Always respect individual privacy and obtain necessary consents.
 
-## License
-MIT License
-
 ## Contact
 Shubam Sarawagi
 sarawagishubam@gmail.com
+
 Project Link: https://github.com/SSARAWAGI05/ZoneIn
 
 ## Acknowledgements
